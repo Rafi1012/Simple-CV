@@ -1,8 +1,32 @@
-# Simple-CV
-Some basic infomation about me
+# Single-Page CV
+Create a single-page HTML CV to showcase your career history
 
-Rafiel Evinson Colon Rosario 
+The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. Styling will be addressed in a later project.
 
-I am a committed individual who values honesty, transparency, and growth. I have an open mindset, am responsible, bold, and adapt quickly to new environments. I learn easily and efficiently, and I am always willing to go the extra mile to contribute to the team and share my knowledge.
+Key requirements for this project:
 
-I have experience in technical and support environments, which has allowed me to develop strong teamwork skills, maintain consistency in achieving results, and apply strategic thinking to problem-solving. I am always eager to learn new tools, take on challenges, and continue growing professionally.
+Semantic HTML: Use appropriate HTML tags to structure your CV.
+
+SEO Meta Tags: Include essential meta tags for SEO.
+
+Open Graph (OG) Tags: Add OG tags for better social media sharing.
+
+Favicon: Add a favicon for your CV page.
+
+The structure of your CV should be easily understandable and ready for styling in a future project.
+
+Submission Checklist:
+Semantically correct HTML structure.
+
+Single-page layout with sections for education, skills, and career history.
+
+SEO meta tags in the head section.
+
+OG tags for better social media sharing.
+
+A favicon linked in the head section.
+
+By completing this project, you'll gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare your webpage for future styling. This foundation will enable you to move on to styling the CV using CSS in subsequent projects.
+
+link: https://roadmap.sh/projects/single-page-cv
+
